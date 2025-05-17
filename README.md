@@ -37,6 +37,6 @@ Bachelor of Engineering (Computer Science)
 
 ## 📫 Connect With Me
 
-tejalbhatia@gmail.com
+tejalbhatia1704@gmail.com
 
 ---
