@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👩‍💻 Tejal Bhatia
 
-<!--
-**TEJAL1451/TEJAL1451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.E. Computer Science student at **Chitkara University**  
+💻 Passionate Software Developer | ☁️ Cloud Enthusiast | 📊 Data Explorer  
+🏆 Winner of an all-girls hackathon | 🤝 Open to collaborations  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Languages:** Java, JavaScript, TypeScript, Python  
+- **Frontend:** React, HTML, CSS, Tailwind  
+- **Backend:** Node.js, Express.js  
+- **Databases/Cloud:** Firebase, Google BigQuery  
+- **Tools & Platforms:** Git, GitHub, Tableau, WordPress, SEMrush
+
+---
+
+## 📚 Education
+
+**Chitkara University**  
+Bachelor of Engineering (Computer Science)  
+📅 2019 – 2025 | 📍 Punjab, India  
+📈 CGPA: 8.88
+
+---
+
+## 🧑‍💼 Experience
+
+**Technical Research Analyst Intern – Hevo Data**  
+📅 4 months  
+- Wrote technical blogs and guides on BigQuery and data integration.  
+- Worked with Tableau, WordPress, Google Sheets, SEMrush.  
+- Conducted competitor research and SEO optimization.
+
+---
+
+
+## 📫 Connect With Me
+
+tejalbhatia@gmail.com
+
+---
+
+> ✨ “Driven by curiosity, powered by code, and always learning.”  
