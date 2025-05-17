@@ -2,14 +2,13 @@
 
 🎓 Final-year B.E. Computer Science student at **Chitkara University**  
 💻 Passionate Software Developer | ☁️ Cloud Enthusiast | 📊 Data Explorer  
-🏆 Winner of an all-girls hackathon | 🤝 Open to collaborations  
-
+🏆 Winner of an all-girls hackathon 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** Java, JavaScript, TypeScript, Python  
-- **Frontend:** React, HTML, CSS, Tailwind  
+- **Languages:** Java, C++, Python  
+- **Frontend:** React, HTML, CSS, Javascript 
 - **Backend:** Node.js, Express.js  
 - **Databases/Cloud:** Firebase, Google BigQuery  
 - **Tools & Platforms:** Git, GitHub, Tableau, WordPress, SEMrush
@@ -41,5 +40,3 @@ Bachelor of Engineering (Computer Science)
 tejalbhatia@gmail.com
 
 ---
-
-> ✨ “Driven by curiosity, powered by code, and always learning.”  
